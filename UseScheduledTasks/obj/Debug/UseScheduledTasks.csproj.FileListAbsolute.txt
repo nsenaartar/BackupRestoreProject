@@ -1,0 +1,88 @@
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\obj\Debug\UseScheduledTasks.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\csc.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\vbc.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\UseScheduledTasks.dll.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\UseScheduledTasks.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\UseScheduledTasks.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\ScheduledTasksLibrary.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Razor.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Webpages.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\ScheduledTasksLibrary.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Razor.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Webpages.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\obj\Debug\UseScheduledTasks.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\obj\Debug\UseScheduledTasks.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\Npgsql.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\Npgsql.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\NLog.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\NLog.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\NLog.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\DotNetZip.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\UseScheduledTasks\bin\DotNetZip.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\csc.exe
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\vbc.exe
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\VBCSCompiler.exe
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\NLog.config
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\UseScheduledTasks.dll.config
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\UseScheduledTasks.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\UseScheduledTasks.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\NLog.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\Npgsql.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\ScheduledTasksLibrary.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Helpers.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Mvc.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Razor.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Webpages.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Webpages.Razor.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\DotNetZip.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\ScheduledTasksLibrary.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\NLog.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\Npgsql.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Razor.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Webpages.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Webpages.Razor.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Helpers.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\System.Web.Mvc.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\bin\DotNetZip.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\obj\Debug\UseScheduledTasks.csprojResolveAssemblyReference.cache
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\obj\Debug\UseScheduledTasks.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\UseScheduledTasks\obj\Debug\UseScheduledTasks.pdb

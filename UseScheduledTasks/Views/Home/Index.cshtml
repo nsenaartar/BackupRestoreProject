@@ -1,0 +1,38 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Scheduled Task Library Test Application</title>
+</head>
+<body>
+    <h2>Scheduled Task Library Test Application</h2>
+    <br />
+    <div>
+        @if (ViewBag.Durum != null)
+        {
+            <br />
+            <h1>@ViewBag.Durum</h1>
+            <br />
+        }
+        <h4>PortgreSql Backup Al</h4>
+        <br />
+        @Html.ActionLink("PortgreSql Backup Al", "PortgreSqlBackup", "Home")
+        <br /><br />
+        <h4>Mail Gönder</h4>
+        <br />
+        @Html.ActionLink("Mail Gönder", "SendMail", "Home")
+        <br /><br />
+        <h4>Dosya İşlemlerini Yap (Yedeği Ziple)</h4>
+        <br />
+        @Html.ActionLink("Dosya İşlemlerini Yap", "FileOperations", "Home")
+        <br /><br />
+        <h4>PortgreSql Restore</h4>
+        <br />
+        @Html.ActionLink("PortgreSql Restore", "PostgreSQLRestore", "Home")
+        <br /><br />
+    </div>
+</body>
+</html>

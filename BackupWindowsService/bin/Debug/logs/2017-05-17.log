@@ -1,0 +1,47 @@
+2017-05-17 12:12:50.5443 INFO Servis baþlatýldý.
+2017-05-17 12:12:50.6674 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-17 12:12:50.6714 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-17 12:12:51.2835 INFO Process exit code: 0
+2017-05-17 12:12:51.2835 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-17 12:12:51.2957 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 12:12:51.4233 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 12:12:51.4233 INFO Dosya taþýma iþlemi baþladý
+2017-05-17 12:12:51.4233 WARN Tasýnacak dosya belirtilen konumda bulunamadý.
+2017-05-17 12:12:51.4513 ERROR Hata! : System.IO.FileNotFoundException: 'D:\YEDEK\dvdrentral.backup' dosyasý bulunamadý.
+Dosya adý: 'D:\YEDEK\dvdrentral.backup'
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   konum: System.IO.File.Move(String sourceFileName, String destFileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.Move(String fileNameforCopy, String fileRename, String fileLocation, String movingLocation) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 92
+2017-05-17 14:26:39.5450 INFO Servis baþlatýldý.
+2017-05-17 14:26:39.6835 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-17 14:26:39.6895 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-17 14:26:40.3230 INFO Process exit code: 0
+2017-05-17 14:26:40.3230 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-17 14:26:40.3230 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:26:40.3920 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 14:26:40.4077 INFO Dosya silme iþlemi baþladý.
+2017-05-17 14:26:40.4077 INFO Dosya silme iþlemi tamamlandý.
+2017-05-17 14:37:09.1848 INFO Servis baþlatýldý.
+2017-05-17 14:37:09.3639 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-17 14:37:09.3639 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-17 14:37:09.9593 INFO Process exit code: 0
+2017-05-17 14:37:09.9593 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-17 14:37:09.9750 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:37:10.0440 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 14:37:10.0440 INFO Dosya silme iþlemi baþladý.
+2017-05-17 14:37:10.0440 INFO Dosya silme iþlemi tamamlandý.
+2017-05-17 14:40:29.1065 INFO Servis baþlatýldý.
+2017-05-17 14:40:29.2914 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-17 14:40:29.2914 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-17 14:40:29.8927 INFO Process exit code: 0
+2017-05-17 14:40:29.8927 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-17 14:40:29.9084 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:40:29.9240 ERROR Hata! : System.IO.FileNotFoundException: C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\dvdrentral 17.05.2017.backup
+   konum: Ionic.Zip.SharedUtilities.GetFileLength(String fileName)
+   konum: Ionic.Zip.ZipEntry.MaybeUnsetCompressionMethodForWriting(Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.WriteHeader(Stream s, Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.Write(Stream s)
+   konum: Ionic.Zip.ZipFile.Save()
+   konum: Ionic.Zip.ZipFile.Save(String fileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.FileZip(String path, String databaseName) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 41

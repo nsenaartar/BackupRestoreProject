@@ -1,0 +1,23 @@
+2017-05-23 10:31:50.1428 INFO Servis baþlatýldý.
+2017-05-23 10:31:50.4660 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-23 10:31:50.4660 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-23 10:31:53.2947 INFO Process exit code: 0
+2017-05-23 10:31:53.2947 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-23 10:32:12.5464 INFO Servis baþlatýldý.
+2017-05-23 10:32:12.7115 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-23 10:32:12.7115 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-23 10:32:13.3069 INFO Process exit code: 0
+2017-05-23 10:32:13.3069 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-23 10:32:13.3538 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-23 10:32:13.4632 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-23 10:32:13.4632 INFO Dosya silme iþlemi baþladý.
+2017-05-23 10:32:13.4788 INFO Dosya silme iþlemi tamamlandý.
+2017-05-23 17:35:56.5844 INFO Servis baþlatýldý.
+2017-05-23 17:35:56.7695 INFO Zamanlanmýþ Görevler baþlatýldý
+2017-05-23 17:35:56.7745 INFO PostgreSQL Backup Alma Ýþlemi Baþlatýldý. 
+2017-05-23 17:35:57.3909 INFO Process exit code: 0
+2017-05-23 17:35:57.3950 INFO PostgreSQL Backup Alma Ýþlemi Tamamlandý. 
+2017-05-23 17:35:57.3950 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-23 17:35:57.4760 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-23 17:35:57.4760 INFO Dosya silme iþlemi baþladý.
+2017-05-23 17:35:57.4760 INFO Dosya silme iþlemi tamamlandý.

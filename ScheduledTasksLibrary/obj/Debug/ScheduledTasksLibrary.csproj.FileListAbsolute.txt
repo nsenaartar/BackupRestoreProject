@@ -1,0 +1,44 @@
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\ScheduledTasksLibrary.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\ScheduledTasksLibrary.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\obj\Debug\ScheduledTasksLibrary.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\obj\Debug\ScheduledTasksLibrary.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\NLog.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\NLog.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\NLog.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\DotNetZip.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\DotNetZip.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Quartz.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\bin\Debug\Quartz.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\ScheduledTasksLibrary\obj\Debug\ScheduledTasksLibrary.csprojResolveAssemblyReference.cache
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\NLog.config
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\ScheduledTasksLibrary.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\ScheduledTasksLibrary.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\DotNetZip.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\NLog.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Quartz.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\DotNetZip.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\NLog.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Quartz.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\bin\Debug\Quartz.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\obj\Debug\ScheduledTasksLibrary.csprojResolveAssemblyReference.cache
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\obj\Debug\ScheduledTasksLibrary.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\obj\Debug\ScheduledTasksLibrary.pdb

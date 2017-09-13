@@ -1,0 +1,10 @@
+﻿Installing assembly 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.InstallLog
+   assemblypath = C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.exe
+Rolling back assembly 'C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.InstallLog
+   assemblypath = C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.exe

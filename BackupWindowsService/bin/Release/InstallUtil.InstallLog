@@ -1,0 +1,17 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.exe assembly's progress.
+The file is located at C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Kullanıcı hesap adlarıyla güvenlik kimlikleri arasında hiçbir eşleştirme yapılmadı
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.exe assembly's progress.
+The file is located at C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Release\BackupWindowsService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.

@@ -1,0 +1,70 @@
+2017-05-17 14:02:24.4089 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:02:28.7993 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:02:28.8560 ERROR Hata! : System.IO.FileNotFoundException: D:\YEDEK\dvdrentral.backup 17.05.2017.backup
+   konum: Ionic.Zip.SharedUtilities.GetFileLength(String fileName)
+   konum: Ionic.Zip.ZipEntry.MaybeUnsetCompressionMethodForWriting(Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.WriteHeader(Stream s, Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.Write(Stream s)
+   konum: Ionic.Zip.ZipFile.Save()
+   konum: Ionic.Zip.ZipFile.Save(String fileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.FileZip(String path, String databaseName) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 50
+2017-05-17 14:03:13.5926 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:03:17.5438 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:04:15.6802 ERROR Hata! : System.IO.FileNotFoundException: D:\YEDEK\dvdrentral.backup 17.05.2017.backup
+   konum: Ionic.Zip.SharedUtilities.GetFileLength(String fileName)
+   konum: Ionic.Zip.ZipEntry.MaybeUnsetCompressionMethodForWriting(Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.WriteHeader(Stream s, Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.Write(Stream s)
+   konum: Ionic.Zip.ZipFile.Save()
+   konum: Ionic.Zip.ZipFile.Save(String fileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.FileZip(String path, String databaseName) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 50
+2017-05-17 14:05:34.5335 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:05:37.8936 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:05:39.6039 ERROR Hata! : System.IO.FileNotFoundException: D:\YEDEK\dvdrentral.backup 17.05.2017.backup
+   konum: Ionic.Zip.SharedUtilities.GetFileLength(String fileName)
+   konum: Ionic.Zip.ZipEntry.MaybeUnsetCompressionMethodForWriting(Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.WriteHeader(Stream s, Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.Write(Stream s)
+   konum: Ionic.Zip.ZipFile.Save()
+   konum: Ionic.Zip.ZipFile.Save(String fileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.FileZip(String path, String databaseName) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 50
+2017-05-17 14:07:34.8013 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:07:41.1460 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:07:42.8433 ERROR Hata! : System.IO.FileNotFoundException: D:\YEDEK\dvdrentral  17.05.2017.backup
+   konum: Ionic.Zip.SharedUtilities.GetFileLength(String fileName)
+   konum: Ionic.Zip.ZipEntry.MaybeUnsetCompressionMethodForWriting(Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.WriteHeader(Stream s, Int32 cycle)
+   konum: Ionic.Zip.ZipEntry.Write(Stream s)
+   konum: Ionic.Zip.ZipFile.Save()
+   konum: Ionic.Zip.ZipFile.Save(String fileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.FileZip(String path, String databaseName) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 50
+2017-05-17 14:08:16.2073 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:08:19.7133 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:08:20.2681 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 14:10:48.8594 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:10:52.2414 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:13:00.3148 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:13:03.5383 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:13:04.5251 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 14:14:25.9709 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:14:31.1363 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:15:11.3256 ERROR Hata! : System.UnauthorizedAccessException: 'C:\Program Files (x86)\IIS Express\DotNetZip-kotuzjei.tmp' yoluna eriþim reddedildi.
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   konum: System.IO.FileStream..ctor(String path, FileMode mode)
+   konum: Ionic.Zip.SharedUtilities.CreateAndOpenUniqueTempFile(String dir, Stream& fs, String& filename)
+   konum: Ionic.Zip.ZipFile.get_WriteStream()
+   konum: Ionic.Zip.ZipFile.Save()
+   konum: Ionic.Zip.ZipFile.Save(String fileName)
+   konum: ScheduledTasksLibrary.BackupAndRestore.FileOperations.FileZip(String path, String databaseName) C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\ScheduledTasksLibrary\BackupAndRestore\FileOperations.cs içinde: satýr 50
+2017-05-17 14:16:36.8577 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:16:43.6971 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:16:44.4447 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 14:17:55.7021 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:17:59.6462 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:18:15.8655 INFO Dosya sýkýstýrma iþlemi tamamlandý.
+2017-05-17 14:18:29.3036 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:19:19.5132 INFO Dosya sýkýstýrma iþlemi baþladý
+2017-05-17 14:19:19.5132 INFO Use Scheduled Task Projesi baþlatýldý.
+2017-05-17 14:19:51.7947 INFO Dosya sýkýstýrma iþlemi tamamlandý.

@@ -1,0 +1,52 @@
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\NLog.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\BackupWindowsService.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\BackupWindowsService.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\BackupWindowsService.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\NLog.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\NLog.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\obj\Debug\BackupWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\obj\Debug\BackupWindowsService.ProjectInstaller.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\obj\Debug\BackupWindowsService.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\obj\Debug\BackupWindowsService.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\obj\Debug\BackupWindowsService.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\ScheduledTasksLibrary.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Quartz.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Common.Logging.Core.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Common.Logging.dll
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\ScheduledTasksLibrary.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Quartz.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Quartz.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Common.Logging.Core.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Common.Logging.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Common.Logging.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\DotNetZip.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\DotNetZip.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Svc-Unregister.bat
+C:\Users\Lenovo\documents\visual studio 2015\Projects\ScheduledTasks\BackupWindowsService\bin\Debug\Svc-Register.bat
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\BackupWindowsService.exe.config
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\obj\Debug\BackupWindowsService.exe
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\obj\Debug\BackupWindowsService.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\NLog.config
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Svc-Unregister.bat
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Svc-Register.bat
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\BackupWindowsService.exe
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\BackupWindowsService.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Common.Logging.Core.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Common.Logging.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\NLog.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Quartz.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\ScheduledTasksLibrary.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\DotNetZip.dll
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\ScheduledTasksLibrary.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Common.Logging.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Common.Logging.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Common.Logging.Core.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Common.Logging.Core.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\NLog.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Quartz.pdb
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\Quartz.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\bin\Debug\DotNetZip.xml
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\obj\Debug\BackupWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\obj\Debug\BackupWindowsService.ProjectInstaller.resources
+C:\Users\NSENAARTAR\Desktop\PROJELER\ScheduledTasks-2\BackupWindowsService\obj\Debug\BackupWindowsService.csproj.GenerateResource.Cache
